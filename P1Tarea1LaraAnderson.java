@@ -4,6 +4,8 @@
  */
 package p1tarea1laraanderson;
 
+import java.util.Scanner; 
+
 /**
  *
  * @author Usuario
